@@ -1,0 +1,13 @@
+20
+10
+10
+xxxxxxxxxx
+x........x //Can we find a path  from  here
+x........x
+x.... xxxxx
+x........x
+xxxxxx ...x
+x...... xxx
+x.. xxxxxxx
+x........x //To here??
+xxxxxxxxxx

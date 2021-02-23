@@ -1,0 +1,13 @@
+10
+20
+10
+xxx....xxxxxxxxxxxxx
+xxx....xxxxxxxxxxxxx
+xxxx.xxxxxxxxxxxxxxx
+x......xxxxxxxxxxxxx
+x......xxxxxxxxxxxxx
+xxxxx...xxxxxxxxxxxx
+xxxxx......xxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx
